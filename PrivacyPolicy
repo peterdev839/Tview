@@ -1,0 +1,42 @@
+Privacy Policy for Tview
+
+Last Updated: 2023-12-25
+
+1. Overview
+
+This Privacy Policy describes how information is collected, used, and shared when users interact with the Tview application. The application uses Google Firebase authentication to verify and identify users.
+
+2. Information We Collect
+
+User Authentication Data: When users log in using Google Firebase authentication, the app collects information such as the user's Google account username and other details required for authentication.
+
+Device Information: We may collect certain information about the user's device, including the device model, operating system, and unique device identifiers.
+
+3. How We Use the Information
+
+We use the collected information for the following purposes:
+
+User Identification: The user's authentication data is used to identify and authenticate users within the Tview application.
+
+App Functionality: Device information may be used to optimize the app's performance and ensure compatibility with various devices and operating systems.
+
+4. Information Sharing and Security
+
+We do not sell or share user information with third parties except as described in this Privacy Policy. User data is securely stored using industry-standard security measures.
+
+5. Third-Party Services
+
+The Tview app uses Google Firebase authentication services. Users are encouraged to review Google's Privacy Policy for information on how Google handles user data.
+
+6. User Controls and Choices
+
+Users have the right to control their personal information. They can modify app permissions or revoke authentication via Google account settings.
+
+7. Updates to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Users will be notified of any changes, and the latest version will be posted on this page.
+
+8. Contact Us
+
+For any questions or concerns regarding this Privacy Policy, please contact us at peter.dev839@gmail.com
+.
